@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue May 01 12:26:46 2018
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : Watch
+Top-level Entity Name : Watch
+Family : Cyclone IV E
+Total logic elements : 247
+    Total combinational functions : 245
+    Dedicated logic registers : 105
+Total registers : 105
+Total pins : 20
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,207 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Ecounter2
+Z0 w1525119302
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dH:\ECE 222\Final Project
+Z5 8H:\ECE 222\Final Project\counter2.vhd
+Z6 FH:\ECE 222\Final Project\counter2.vhd
+l0
+L18
+V6V?lFDe3:7NRjQzcKCVKc2
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1525121835.493000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\ECE 222\Final Project\counter2.vhd|
+Z10 !s107 H:\ECE 222\Final Project\counter2.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 ^mRCg;MONGNb3PKH5z`Dk0
+!i10b 1
+Aece222_counter
+R1
+R2
+R3
+Z13 DEx4 work 8 counter2 0 22 6V?lFDe3:7NRjQzcKCVKc2
+l42
+L38
+V;Ylh>h8NZ>DokMKZfzQWH1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 27CkI4HJ]Q3e29=gDbk@80
+!i10b 1
+Apendev
+R1
+R2
+R3
+R13
+l21
+L19
+VCCjzcXi55A_AH;dYBGo6Z2
+R7
+32
+R11
+R12
+FH:/ECE 222/Final Project/counter2.vhd
+w1525117734
+8H:/ECE 222/Final Project/counter2.vhd
+!s108 1525118424.766000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|H:/ECE 222/Final Project/counter2.vhd|
+!s107 H:/ECE 222/Final Project/counter2.vhd|
+!s100 `4g8dnTeko2N??3Z^9_?P1
+!i10b 1
+Elcd_display
+Z14 w1525121251
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R1
+R2
+R3
+R4
+Z16 8H:\ECE 222\Final Project\LCD_Braille.vhd
+Z17 FH:\ECE 222\Final Project\LCD_Braille.vhd
+l0
+L28
+Vf2YY5LBn17jDC^Yg<Y=N13
+!s100 anc@LTKm9d<MRL`U=0W@g0
+R7
+32
+!i10b 1
+Z18 !s108 1525121837.572000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\ECE 222\Final Project\LCD_Braille.vhd|
+Z20 !s107 H:\ECE 222\Final Project\LCD_Braille.vhd|
+R11
+R12
+Aa
+R15
+R1
+R2
+R3
+Z21 DEx4 work 11 lcd_display 0 22 f2YY5LBn17jDC^Yg<Y=N13
+l95
+L74
+Z22 V<bN=_Rn38><dk41ajAj0i1
+Z23 !s100 kRoTlCOB:8MjoZAdU0BjL0
+R7
+32
+!i10b 1
+R18
+R19
+R20
+R11
+R12
+Esecond_clk
+Z24 w1525119438
+R2
+R3
+R4
+Z25 8H:\ECE 222\Final Project\second_clk.vhd
+Z26 FH:\ECE 222\Final Project\second_clk.vhd
+l0
+L9
+V9`Yg4CB=:IBzITD_BP9gj1
+R7
+32
+Z27 !s108 1525121836.198000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\ECE 222\Final Project\second_clk.vhd|
+Z29 !s107 H:\ECE 222\Final Project\second_clk.vhd|
+R11
+R12
+!s100 4FKI2MmPRC8XUUPXoQ:Wa3
+!i10b 1
+Aece222_clock
+R2
+R3
+Z30 DEx4 work 10 second_clk 0 22 9`Yg4CB=:IBzITD_BP9gj1
+l21
+L19
+Vb@7KbSKKIhVd;SP17<Xb51
+R7
+32
+R27
+R28
+R29
+R11
+R12
+!s100 UecQCKl6CERc3o[;SlXiX2
+!i10b 1
+Apendev
+R2
+R3
+R30
+l11
+L10
+Vz>7AlUPdHH6R9Uo]LnG2B2
+R7
+32
+R28
+R11
+R12
+w1525117696
+R29
+!s108 1525118425.367000
+!s100 945Z1d]Bhi4_R4OG@l85F3
+!i10b 1
+Ewatch
+Z31 w1525121831
+R2
+R3
+R4
+Z32 8H:\ECE 222\Final Project\Watch.vhd
+Z33 FH:\ECE 222\Final Project\Watch.vhd
+l0
+L9
+VfG;hRF2YDFTVDdDMW;?1Y0
+R7
+32
+Z34 !s108 1525121836.851000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\ECE 222\Final Project\Watch.vhd|
+Z36 !s107 H:\ECE 222\Final Project\Watch.vhd|
+R11
+R12
+!s100 `1gF^JFDR9]MU6dz5GRPe1
+!i10b 1
+Aece222_finalproject
+R2
+R3
+DEx4 work 5 watch 0 22 fG;hRF2YDFTVDdDMW;?1Y0
+l75
+L28
+VN5P?jTRPKXmo?BGUZdeFa0
+R7
+32
+R34
+R35
+R36
+R11
+R12
+!s100 @RjVGAbN;NmY^AU;dl]d20
+!i10b 1
+Apendev
+R2
+R3
+DEx4 work 5 watch 0 22 75mnPJ?_bNfnTOOYeD;WJ1
+l28
+L13
+V61nSGhR^[h0kT63N8^DX43
+R7
+32
+R11
+R12
+FH:/ECE 222/Final Project/Watch.vhd
+w1525117716
+8H:/ECE 222/Final Project/Watch.vhd
+!s108 1525118426.045000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|H:/ECE 222/Final Project/Watch.vhd|
+!s107 H:/ECE 222/Final Project/Watch.vhd|
+!s100 UhZCQnD37`F@G>5nf0R8>0
+!i10b 1
