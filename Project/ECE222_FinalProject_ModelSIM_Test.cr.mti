@@ -1,0 +1,28 @@
+{H:/ECE 222/Final Project/LCD_Braille.vhd} {1 {vcom -work work -2002 -explicit {H:\ECE 222\Final Project\LCD_Braille.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity LCD_Display
+-- Compiling architecture a of LCD_Display
+
+} {} {}} {H:/ECE 222/Final Project/second_clk.vhd} {1 {vcom -work work -2002 -explicit {H:\ECE 222\Final Project\second_clk.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity second_clk
+-- Compiling architecture ECE222_Clock of second_clk
+
+} {} {}} {H:/ECE 222/Final Project/counter2.vhd} {1 {vcom -work work -2002 -explicit {H:\ECE 222\Final Project\counter2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity Counter2
+-- Compiling architecture ECE222_Counter of Counter2
+
+} {} {}}
